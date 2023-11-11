@@ -1,0 +1,17 @@
+[
+  {
+    "key": "searchBox",
+    "value": "search-input",
+    "type": "id"
+  },
+  {
+    "key": "searchButton",
+    "value": "//span[@class=\"common-sprite button-search\"]",
+    "type": "xpath"
+  },
+  {
+    "key": "firstProduct",
+    "value": "//div[@class=\"name\"]/a",
+    "type": "xpath"
+  }
+]

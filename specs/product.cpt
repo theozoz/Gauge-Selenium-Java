@@ -1,0 +1,17 @@
+Created by ozcan.arpaci on 11/8/2023
+
+This is a concept file with following syntax for each concept.
+# Login <url> sayfasına girilir
+* Go to url <url>
+
+# Arama alanına <searchBox> girilir
+* send text <searchBox> to element "searchBox"
+
+# Search butonuna tıklanır
+* Click element "searchButton"
+
+# Ekranda listelenen ilk veriye tıklanır
+* Click element "firstProduct"
+
+# Ürün detay ekranının görüntülendiği
+* Driver title contains "Alışkanlıkların Gücü" value
